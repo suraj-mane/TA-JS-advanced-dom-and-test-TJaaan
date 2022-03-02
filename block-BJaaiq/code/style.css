@@ -1,0 +1,11 @@
+body {
+  background-color: antiquewhite;
+}
+
+.lists {
+  margin: 10rem 0;
+  list-style: none;
+}
+.name {
+  font-size: 3rem;
+}
