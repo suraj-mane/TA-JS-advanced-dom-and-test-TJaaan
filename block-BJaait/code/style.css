@@ -1,0 +1,32 @@
+body {
+  background-color: cornflowerblue;
+  color: aliceblue;
+}
+.container {
+  width: 400px;
+  margin: 10rem auto;
+  text-align: center;
+}
+input {
+  width: 100%;
+  padding: 1rem;
+  border: 2px solid white;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 18px;
+}
+.list {
+  list-style: none;
+}
+.list-item {
+  text-align: left;
+  display: block;
+  width: 100%;
+  border: 2px solid white;
+  background-color: white;
+  color: cornflowerblue;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 10px 0;
+}
